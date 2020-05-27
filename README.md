@@ -1,4 +1,3 @@
 # Starfield
-Starfield
 
 ![](gameplay.gif)
